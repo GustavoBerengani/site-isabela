@@ -1,0 +1,8 @@
+.sites-runtime/
+node_modules/
+*.tar.gz
+*.tar
+.env
+.env.*
+.DS_Store
+Thumbs.db
